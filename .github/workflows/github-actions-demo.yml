@@ -1,4 +1,4 @@
-name: GitHub Actions Demo #q_
+name: GitHub Actions Demo #q_2025
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
